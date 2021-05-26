@@ -55,6 +55,7 @@
 
 ### Main idea
 + The purpose of your application
+
     希望透過多項條件，依據使用者的生活喜好，
     幫使用者快速搜尋、篩選出台北市內適合他居住的地段、地區。
 ### Functionality
