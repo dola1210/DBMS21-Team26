@@ -97,7 +97,7 @@
 https://hackmd.io/@finalproject1176
 
 ### Repo
-https://github.com/ksshen0000/dbms_final_project
+https://github.com/dola1210/DBMS21-Team26
 
 
 
