@@ -13,22 +13,30 @@
     - 臺北市公私立醫療院所
 
 + Where is the data from
+    
     [臺北市資料大平臺](https://data.taipei/)
 
 + What do the columns and tables mean
     1. 臺北市實價周報
+        
         臺北市不動產成交案件列表，記錄土地建物資訊、價格等
     2. 臺北捷運車站出入口座標
+        
         捷運站出口位置
     4. 臺北市各區運動中心
+        
         運動中心地址與座標
     6. 臺北市超級市場
+        
         超級市場地址與座標及經營商家
     8. 臺北市傳統市(商)場
+        
         傳統市場地址與座標
     10. 臺北市各級學校分布圖
+        
         國小、國中、高中地址與座標
     12. 臺北市公私立醫療院所
+        
         醫院、診所位置座標
 
 + Other information about your data (e.g. will it be updated in the future?)
@@ -60,14 +68,17 @@
     幫使用者快速搜尋、篩選出台北市內適合他居住的地段、地區。
 ### Functionality
 + What kind of information will be presented to users
+
     篩選出之推薦地區，及其詳細資訊 (如：滿足哪些使用者期望的條件)。
 
 
 + What kind of interaction will be available
+
     主要功能提供增加、減少篩選條件，依條件下去搜尋，
     並有「我的最愛」功能，使用者可記錄下推薦地區或修改。
 
 + What will be the scenario when a user use your application
+
     想尋找何處符合他的居住理想時，不需一間一間房子搜尋，以及自己閱讀很多資料，就能找到。
 
 + What kind of data will users be able to interact with
@@ -78,6 +89,7 @@
 ### Interface
 
 + Expected interface look (use figure or text to explain)
+    
     預計有幾個下拉式選單或按鈕給使用者去挑選篩選條件，一個搜尋鍵，
     搜尋結果列表每一個row也將有按鈕給使用者加入我的最愛。
 
