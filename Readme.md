@@ -15,6 +15,8 @@
 + Where is the data from
     
     [臺北市資料大平臺](https://data.taipei/)
+    
+    [臺灣醫院列表](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%86%AB%E9%99%A2%E5%88%97%E8%A1%A8)
 
 + What do the columns and tables mean
     1. 臺北市實價周報
@@ -56,6 +58,7 @@
     - [臺北市傳統市(商)場](https://data.taipei/#/dataset/detail?id=89bebb3a-990d-4070-bd67-631a575f6d4a)
     - [臺北市各級學校分布圖](https://data.taipei/#/dataset/detail?id=58b4f7b9-d0c5-4de8-aa7f-981fcb625e45)
     - [臺北市公私立醫療院所](https://data.taipei/#/dataset/detail?id=ffdd5753-30db-4c38-b65f-b77892773d60)
+    - [臺灣醫院列表](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%86%AB%E9%99%A2%E5%88%97%E8%A1%A8) (取臺北市部分自行整理成csv檔)
 
 
 
